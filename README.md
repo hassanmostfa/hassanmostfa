@@ -1,131 +1,229 @@
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hassan%20Mostafa&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Laravel%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=Hassan%20Mostafa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Laravel%20Developer&descSize=20&descAlignY=58" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/hassanmostfa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+Developer+%C2%B7+Laravel+%26+PHP;I+build+RESTful+APIs+for+web+%26+mobile;Multi-tenant+SaaS+%26+E-commerce+backends;Queues+%C2%B7+Redis+%C2%B7+Pest+%2F+PHPUnit" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=30&lines=RESTful+APIs+for+web+%26+mobile+clients;Multi-tenant+SaaS+%26+E-commerce+backends;Laravel+Queues+%C2%B7+Redis+%C2%B7+Pest+%2F+PHPUnit;Open+to+mid-level+backend+roles" alt="Typing animation" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B_years-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production_projects-6-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top_25-Egypt_IGP-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cairo-Egypt-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassan-mostafa-a94906246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hassan.elshiat@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Cairo,_Egypt-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to_opportunities-16a34a?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hassanmostfa&label=Profile%20views&color=2563eb&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassanmostfa&label=Profile%20views&color=2563eb&style=flat" />
-</p>
+<!-- ===================== ABOUT ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 👨‍💻 About
+Backend developer with **~3 years** of PHP and Laravel experience building and maintaining production applications.
 
-Backend developer with **~3 years** of PHP and Laravel experience building and maintaining production applications. I develop RESTful APIs for web and mobile clients, design relational databases, and build multi-tenant SaaS and e-commerce backends.
+I develop RESTful APIs for web and mobile clients, design relational databases, and build **multi-tenant SaaS** and **e-commerce** backends. I integrate payment gateways and third-party services, process heavy work with **Laravel Queues**, speed things up with **Redis**, and cover my code with **PHPUnit** and **Pest** tests.
 
-- 🛒 Currently at **Codlop** (Saudi Arabia), building Laravel backends that integrate **Zid** and **Salla** stores
-- 🔌 Integrate payment gateways, Google Cloud Services, FCM, OneSignal, and social media APIs
-- ⚙️ Use **Laravel Queues** for background processing and **Redis** for caching
-- 🧪 Write automated tests with **PHPUnit** and **Pest**
-- 🎯 Looking for mid-level backend roles (Laravel / PHP), in Egypt or international
+**Right now:** building Laravel backends at **Codlop** that connect stores on **Zid** and **Salla**.
+**Looking for:** mid-level backend roles (Laravel / PHP), in Egypt or international.
 
----
+</td>
+<td width="45%" valign="top">
 
-## 🛠 Tech Stack
+```php
+<?php
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,js,react,nextjs,html,css,bootstrap,git,github,firebase,aws&perline=14" />
-</p>
+class Hassan
+{
+    public string $role  = 'Backend Developer';
+    public string $stack = 'PHP · Laravel';
+    public string $city  = 'Cairo, Egypt';
 
-| | |
-|---|---|
-| **Backend** | PHP, Laravel, RESTful APIs, MVC, OTP Authentication, RBAC |
-| **Databases** | MySQL, SQL Server, Database Design, Query Optimization, Redis (caching) |
-| **Background Jobs** | Laravel Queues, Jobs, Scheduled Tasks |
-| **Real-Time** | Pusher, real-time chat, event-driven communication |
-| **Testing** | PHPUnit, Pest, Feature and API testing |
-| **Integrations** | Payment gateways, Zid, Salla, Google Cloud, FCM, OneSignal, Social Media APIs |
-| **Frontend** | JavaScript, React, Next.js, HTML5, CSS3, Bootstrap |
-| **Tools** | Git, GitHub, AWS Fundamentals |
+    public array $focus = [
+        'REST APIs',
+        'Multi-tenant SaaS',
+        'Queues & Redis',
+        'Automated testing',
+    ];
 
----
+    public bool $openToWork = true;
+}
+```
 
-## 💼 Experience
+</td>
+</tr>
+</table>
 
-| Period | Role | Highlights |
-|---|---|---|
-| **Sep 2025 – Present** | Backend Developer · **Codlop**, Saudi Arabia | Laravel e-commerce apps · APIs integrating Zid and Salla stores · payment gateways and Google Cloud integrations |
-| **Aug 2024 – Aug 2025** | Backend Developer · **Technical Package**, Saudi Arabia | Server-side Laravel apps with MVC · REST APIs for client applications |
-| **Aug 2023 – Aug 2024** | Backend Developer · **Freelance** | Delivered Laravel MVC projects end to end · designed and built REST APIs |
+<!-- ===================== STACK ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=TECH%20STACK&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
----
+<table>
+<tr>
+<td width="20%" align="center"><b>Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/REST_APIs-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/MVC-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/OTP_Auth-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Data</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Design-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Query_Optimization-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Async & Real-time</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Laravel_Queues-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jobs_&_Scheduler-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real--time_Chat-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Testing</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Pest-F472B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature_Tests-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Tests-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Integrations</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Zid-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Salla-004D5A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Payment_Gateways-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Social_Media_APIs-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,bootstrap&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" /></td>
+</tr>
+</table>
 
-## 🚀 Featured Projects
+<!-- ===================== EXPERIENCE ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=EXPERIENCE&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
-<details open>
-<summary><b>🏢 Aqarat · Real Estate SaaS</b> · <a href="https://aqarcrm.app">aqarcrm.app</a></summary>
+<table>
+<tr>
+<td width="22%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/Sep_2025_–_Now-16A34A?style=for-the-badge" /><br/><sub><b>Current</b></sub>
+</td>
+<td valign="top">
+  <b>Backend Developer · Codlop</b> <sub>Saudi Arabia</sub><br/>
+  ▸ Build and maintain MVC e-commerce applications with Laravel<br/>
+  ▸ Develop REST APIs that connect stores on <b>Zid</b> and <b>Salla</b><br/>
+  ▸ Integrate payment gateways and Google Cloud Services into production
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/Aug_2024_–_Aug_2025-2563eb?style=for-the-badge" />
+</td>
+<td valign="top">
+  <b>Backend Developer · Technical Package</b> <sub>Saudi Arabia</sub><br/>
+  ▸ Developed server-side web applications with Laravel and MVC<br/>
+  ▸ Built REST APIs consumed by client applications
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://img.shields.io/badge/Aug_2023_–_Aug_2024-475569?style=for-the-badge" />
+</td>
+<td valign="top">
+  <b>Backend Developer · Freelance</b><br/>
+  ▸ Delivered Laravel MVC projects as an independent developer<br/>
+  ▸ Designed and implemented REST APIs for project requirements
+</td>
+</tr>
+</table>
 
-<br/>
+<!-- ===================== PROJECTS ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=FEATURED%20PROJECTS&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
-`Laravel` `RESTful APIs`
-
-- Multi-tenant backend where multiple real estate companies manage properties, customers, employees, contracts, invoices, and listings in one system
-- REST APIs serving both web and mobile apps
-- Role-based access control, OTP authentication, notifications, favorites, and map-based property search
-- Database design built to scale with growing tenants and users
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3>🏢 Aqarat</h3>
+  <sub>Real Estate SaaS · <a href="https://aqarcrm.app">aqarcrm.app</a></sub>
+  <p>Multi-tenant backend where real estate companies manage properties, customers, employees, contracts, invoices, and listings in one system. REST APIs serve both web and mobile, with RBAC, OTP login, notifications, favorites, and map-based search.</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--tenant-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-2563eb?style=flat-square" />
+</td>
+<td width="50%" valign="top">
+  <h3>🥤 ABC E-Commerce</h3>
+  <sub>Beverage delivery, Kuwait · <a href="https://abcjuice.com">abcjuice.com</a></sub>
+  <p>Laravel backend for an online ordering and home-delivery platform: catalog, cart, checkout, and a promotion engine (buy-X-get-Y, quantity discounts, percentage and fixed-price campaigns). APIs power the Next.js site and mobile apps, with OTP login.</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <h3>📚 Malkat</h3>
+  <sub>Educational platform for children · <a href="https://malkat.codlop.sa">malkat.codlop.sa</a></sub>
+  <p>REST APIs and an admin dashboard for programs, courses, activities, books, and learning products. Age-based course management, enrollment and interest forms, RBAC, and workflows for service and partnership requests.</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-2563eb?style=flat-square" />
+</td>
+<td valign="top">
+  <h3>🎟 Coupon Apps</h3>
+  <sub>Coupon marketing SaaS · <a href="https://coupon-apps.codlop.sa">coupon-apps.codlop.sa</a></sub>
+  <p>Admin dashboard for merchants, coupons, and campaigns. Interactive coupon types (Wheel of Fortune, Countdown, Scratch &amp; Win) with configurable discounts and eligibility rules, merchant onboarding, store integration, and performance analytics.</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/SaaS-2563eb?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <h3>🧴 Dkhony</h3>
+  <sub>Online perfume store · Google Play</sub>
+  <p>Admin dashboard and mobile APIs covering product management, cart, order processing, and checkout.</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile_API-2563eb?style=flat-square" />
+</td>
+<td valign="top">
+  <h3>🏖 Azhala</h3>
+  <sub>Chalets, restaurants &amp; desserts booking · Google Play</sub>
+  <p>Admin dashboard and mobile APIs supporting event planning and reservations.</p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile_API-2563eb?style=flat-square" />
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>🥤 ABC E-Commerce · Beverage Delivery, Kuwait</b> · <a href="https://abcjuice.com">abcjuice.com</a></summary>
-
+<summary><b>📂 More repositories on GitHub</b></summary>
 <br/>
-
-`Laravel` `Next.js` `RESTful APIs`
-
-- Laravel backend for an online ordering and home-delivery platform
-- Product catalog, cart, and checkout workflows
-- Promotion engine: buy-X-get-Y, quantity discounts, percentage and fixed-price campaigns
-- APIs consumed by the Next.js web app and mobile apps, with OTP registration and login
-</details>
-
-<details>
-<summary><b>📚 Malkat · Educational Platform for Children</b> · <a href="https://malkat.codlop.sa">malkat.codlop.sa</a></summary>
-
-<br/>
-
-`Laravel` `Next.js` `RESTful APIs`
-
-- REST APIs and an admin dashboard for programs, courses, activities, books, learning products, and users
-- Age-based program and course management with registration and interest forms
-- Authentication, RBAC, and workflows for service and partnership requests
-</details>
-
-<details>
-<summary><b>🎟 Coupon Apps · Coupon Marketing SaaS</b> · <a href="https://coupon-apps.codlop.sa">coupon-apps.codlop.sa</a></summary>
-
-<br/>
-
-`Laravel`
-
-- Admin dashboard for merchants, coupons, campaigns, and platform data
-- Interactive coupon types: Wheel of Fortune, Countdown, Scratch & Win, with configurable discounts and eligibility rules
-- Merchant onboarding, e-commerce store integration, and performance analytics
-</details>
-
-<details>
-<summary><b>📱 Mobile app backends · Dkhony and Azhala</b></summary>
-
-<br/>
-
-`Laravel`
-
-- **Dkhony** (online perfume store, on Google Play): admin dashboard and mobile APIs for products, cart, orders, and checkout
-- **Azhala** (booking for chalets, restaurants, and desserts, on Google Play): admin dashboard and mobile APIs for event planning and reservations
-</details>
-
-### 📂 More on GitHub
 
 | Project | Description | Links |
 |---|---|---|
@@ -134,26 +232,42 @@ Backend developer with **~3 years** of PHP and Laravel experience building and m
 | **ABC Backend** | Laravel API for orders and notifications | [Code](https://github.com/hassanmostfa/ABC_Backend) |
 | **Natural Remedies** | Operations dashboard | [Code](https://github.com/hassanmostfa/Natural-Remedies-Dashboard) · [Live](https://natural-remedies-dashboard.vercel.app) |
 
----
+</details>
 
-## 🎓 Education
+<!-- ===================== EDUCATION ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=EDUCATION&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
-**B.Sc. Computers and Artificial Intelligence** · Sadat City University (2020 – 2024)
+<table>
+<tr>
+<td width="55%" valign="top">
+  <h3>🎓 B.Sc. Computers &amp; Artificial Intelligence</h3>
+  <b>Sadat City University</b> · Oct 2020 – Jul 2024<br/><br/>
+  <img src="https://img.shields.io/badge/GPA-3.17_(Very_Good)-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduation_project-Excellent-16A34A?style=flat-square" />
+  <br/><br/>
+  <sub>Plus 80 hours of training at the Public Service Center, Faculty of Computers and AI.</sub>
+</td>
+<td width="45%" valign="top">
+  <h3>🏆 DR.Robot</h3>
+  <sub>Graduation project</sub>
+  <p>Heart disease detection system using deep learning. Ranked among the <b>top 25 projects in Egypt</b> in the Industrial Graduation Project (IGP) competition by the Ministry of Higher Education &amp; Scientific Research.</p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</td>
+</tr>
+</table>
 
-- Grade: Very Good (GPA 3.17) · Graduation project: **Excellent**
-- 🏆 **DR.Robot**: heart disease detection with deep learning (React.js, Laravel, Python). Ranked among the **top 25 projects in Egypt** in the Industrial Graduation Project (IGP) competition, organized by the Ministry of Higher Education & Scientific Research
-
----
-
-## 📊 GitHub Stats
+<!-- ===================== STATS ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=GITHUB%20STATS&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hassanmostfa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostfa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassanmostfa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=2563eb&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanmostfa&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanmostfa&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=hassanmostfa&hide_border=true&background=0d1117&ring=2563eb&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
 
 <p align="center">
@@ -163,17 +277,20 @@ Backend developer with **~3 years** of PHP and Laravel experience building and m
   </picture>
 </p>
 
----
+<!-- ===================== CONTACT ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=44&section=header&text=LET%27S%20CONNECT&fontSize=20&fontColor=ffffff&fontAlign=8&fontAlignY=50&animation=fadeIn" width="100%" />
 
-## 🤝 Let's Connect
-
-I'm open to backend roles and freelance projects. Email or LinkedIn is the fastest way to reach me.
+<p align="center">
+  Open to backend roles and freelance projects.<br/>
+  Email or LinkedIn is the fastest way to reach me.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassan-mostafa-a94906246"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hassan.elshiat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hassanmostfa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" />
 </p>
