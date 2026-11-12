@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hassan Mostafa
 
-<!--
-**hassanmostfa/hassanmostfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer. I build Laravel APIs and admin dashboards for commerce, healthcare, and multi-vendor products.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | |
+|---|---|---|
+| [Bio Plus](https://github.com/hassanmostfa/Bio-Plus-Admin) | Healthcare admin, plus [pharmacy](https://github.com/hassanmostfa/Bio-Plus-Pharmacy-Admin) and [doctor](https://github.com/hassanmostfa/Bio-Plus-Doctor-Admin) dashboards | [Live](https://bio-plus-admin.vercel.app) |
+| [LEEN](https://github.com/hassanmostfa/LEEN) | Multi-vendor services platform | |
+| [ABC Backend](https://github.com/hassanmostfa/ABC_Backend) | Laravel API for orders and notifications | |
+| [Contract](https://github.com/hassanmostfa/Contract) | Project contract template | [Live](https://contract-red.vercel.app) |
+| [Natural Remedies](https://github.com/hassanmostfa/Natural-Remedies-Dashboard) | Operations dashboard | [Live](https://natural-remedies-dashboard.vercel.app) |
+
+## Stack
+
+PHP · Laravel · REST APIs · MySQL · JavaScript · TypeScript · Firebase
+
+## Contact
+
+[GitHub](https://github.com/hassanmostfa)
